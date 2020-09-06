@@ -4,8 +4,10 @@ Yii2 Queue Extension Change Log
 2.3.1 under development
 -----------------------
 
+- Enh #372: Add ability to configure keepalive and heartbeat for Amqp (vyachin)
 - Bug #380: Fixed amqp-interop queue/listen signal handling (tarinu)
 - Enh #388: `symfony/process 5.0` compatibility (leandrogehlen)
+
 
 2.3.0 June 04, 2019
 -------------------
